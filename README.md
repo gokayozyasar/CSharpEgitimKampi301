@@ -20,6 +20,6 @@ Bu durumu çözmek için kod şu şekilde güncellenmiştir:
 
 ** lblAvgLocationPrice.Text = db.Location.Average(x => x.Price).GetValueOrDefault().ToString("F2") + " TL";
 
-Ayrıca, binlik ayıracın daha estetik bir görünüm sağlaması isteniyorsa, .ToString("F2") ifadesi .ToString("N2") olarak değiştirilmelidir. Bu güncelleme, çıktının hem iki ondalık basamaklı hem de binlik ayıracı içerecek şekilde formatlanmasını sağlayacaktır.
+Ayrıca, binlik ayıracın daha estetik bir görünüm sağlaması için, .ToString("F2") ifadesi .ToString("N2") olarak değiştirilmiştir. Bu güncelleme ile çıktının hem iki ondalık basamaklı hem de binlik ayıracı içerecek şekilde formatlanmasını sağlanmıştır.
 
-Bu şekilde yapılan düzenleme, hem daha okunabilir bir sonuç elde edilmesini hem de olası hataların önüne geçilmesini sağlamaktadır.
+
