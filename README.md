@@ -10,7 +10,7 @@ Form Ekran Görüntüsü ;
 ![case3screen](https://github.com/user-attachments/assets/3f2ec6e4-fc92-4ea7-8295-88625bc54672)
 
 
-NOT: Ortalama kapasite hesaplamasında, Murat Yücedağ'ın oluşturduğu C# Eğitim Kampı'nın 17. dersi olan Entity Framework Metotları ve LINQ Sorguları videosunda ödev olarak verilen Ortalama Kapasite sorgusunda, virgülden sonraki ondalık değerlerin iki basamağa indirgenmesi ve binlik ayıracı kullanımıyla ilgili bir çözüm sunulmuştur.
+NOT: Ortalama tur fiyatları hesaplamasında, Murat Yücedağ'ın oluşturduğu C# Eğitim Kampı'nın 17. dersi olan Entity Framework Metotları ve LINQ Sorguları videosunda ödev olarak verilen Ortalama tur fiyatları sorgusunda, virgülden sonraki ondalık değerlerin iki basamağa indirgenmesi ve binlik ayıracı kullanımıyla ilgili bir çözüm sunulmuştur.
 
 Başlangıçta, aşağıdaki kod düşünülmüş ancak SQL tarafında Price alanının decimal olarak tanımlanması ve decimal türünün null değer içerebilmesi nedeniyle bu kodda hata oluştuğu tespit edilmiştir:
 
