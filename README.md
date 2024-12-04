@@ -6,7 +6,7 @@ Projenin devamında, bir Seyahat Acentesi uygulaması geliştirilmiştir. Bu uyg
 
 Bu repo, hem katmanlı mimari tasarımı hem de LINQ sorgularının pratikteki uygulamasını anlamak ve geliştirmek isteyenler için çalışmaları içermektedir.
 
-Form Eran Görüntüsü ;
+Form Ekran Görüntüsü ;
 ![case3screen](https://github.com/user-attachments/assets/3f2ec6e4-fc92-4ea7-8295-88625bc54672)
 
 
